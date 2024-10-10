@@ -10,7 +10,7 @@
     "lint": {
       "dependsOn": ["^lint"]
     },
-    "start": {
+    "dev": {
       "dependsOn": ["^build"],
       "cache": false,
       "persistent": true
